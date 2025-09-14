@@ -7,6 +7,10 @@ Conversational AI: Utilizes a powerful AI model to understand user queries and p
 
 ## Technologies Used:
    ### Front-end:
- HTML
- CSS (Tailwind CSS)
- JavaScript
+ HTML, CSS , JavaScript
+
+## APIs:
+
+Google Gemini API (for text generation and audio)
+
+Web Speech API (for Speech Recognition)
